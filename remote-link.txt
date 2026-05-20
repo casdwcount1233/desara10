@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://climate-straight-unix-realized.trycloudflare.com/vnc.html
+URL       : https://beach-finance-enhancement-paying.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-20 17:52:55
+Created   : 2026-05-20 21:45:12
 =======================================================
