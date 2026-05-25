@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arrow-indirect-just-telephony.trycloudflare.com/vnc.html
+URL       : https://forbes-beatles-ranger-zealand.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-25 02:33:10
+Created   : 2026-05-25 12:58:29
 =======================================================
