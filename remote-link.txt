@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diploma-tech-recruiting-viewing.trycloudflare.com/vnc.html
+URL       : https://requests-communicate-passengers-cio.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-26 02:13:19
+Created   : 2026-05-26 08:28:54
 =======================================================
