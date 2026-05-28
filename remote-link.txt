@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brings-pockets-jim-escape.trycloudflare.com/vnc.html
+URL       : https://designer-departments-untitled-struct.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-28 08:40:49
+Created   : 2026-05-28 17:58:46
 =======================================================
