@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://disco-scoring-closes-inn.trycloudflare.com/vnc.html
+URL       : https://treatments-berkeley-launches-reasoning.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-29 18:02:49
+Created   : 2026-05-29 21:46:52
 =======================================================
