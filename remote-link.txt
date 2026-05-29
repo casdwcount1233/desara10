@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://handle-barely-profit-lifetime.trycloudflare.com/vnc.html
+URL       : https://disco-scoring-closes-inn.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-29 12:43:58
+Created   : 2026-05-29 18:02:49
 =======================================================
