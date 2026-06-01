@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://toe-bit-others-sterling.trycloudflare.com/vnc.html
+URL       : https://salaries-came-wins-radius.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-31 20:51:14
+Created   : 2026-06-01 02:43:22
 =======================================================
