@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://allergy-yours-zinc-entrepreneur.trycloudflare.com/vnc.html
+URL       : https://pentium-mainstream-frequencies-psp.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 22:33:00
+Created   : 2026-06-02 02:42:19
 =======================================================
