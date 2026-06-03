@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ram-speaks-lesser-aud.trycloudflare.com/vnc.html
+URL       : https://although-temperatures-intensive-sweet.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-02 22:20:29
+Created   : 2026-06-03 02:49:48
 =======================================================
