@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://murphy-estimation-runs-casual.trycloudflare.com/vnc.html
+URL       : https://monsters-brian-beatles-contracts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 21:56:06
+Created   : 2026-06-12 02:37:22
 =======================================================
