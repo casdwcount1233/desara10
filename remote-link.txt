@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://personality-formerly-intensity-gives.trycloudflare.com/vnc.html
+URL       : https://letting-mba-clarity-terminals.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-12 08:55:41
+Created   : 2026-06-12 12:52:37
 =======================================================
