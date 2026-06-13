@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fence-alert-ipaq-draw.trycloudflare.com/vnc.html
+URL       : https://committee-championship-drainage-employee.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-13 16:10:51
+Created   : 2026-06-13 21:05:32
 =======================================================
