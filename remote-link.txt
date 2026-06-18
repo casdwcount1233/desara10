@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mba-units-allow-costs.trycloudflare.com/vnc.html
+URL       : https://detected-influences-whenever-teenage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 17:58:01
+Created   : 2026-06-18 22:01:34
 =======================================================
