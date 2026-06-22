@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exit-integer-newspaper-broken.trycloudflare.com/vnc.html
+URL       : https://four-piece-connector-created.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-22 18:42:01
+Created   : 2026-06-22 21:58:01
 =======================================================
