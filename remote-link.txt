@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://monitor-frank-treated-enrollment.trycloudflare.com/vnc.html
+URL       : https://cargo-storm-databases-themselves.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-27 02:13:02
+Created   : 2026-06-27 07:45:44
 =======================================================
