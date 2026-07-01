@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://translator-gap-return-scheme.trycloudflare.com/vnc.html
+URL       : https://usc-ant-tasks-examples.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 02:35:38
+Created   : 2026-07-01 08:46:21
 =======================================================
