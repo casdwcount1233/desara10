@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wise-software-wiki-replacing.trycloudflare.com/vnc.html
+URL       : https://majority-kansas-london-environments.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 01:48:46
+Created   : 2026-07-12 07:26:55
 =======================================================
