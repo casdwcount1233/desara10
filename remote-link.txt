@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://genius-buf-bidder-full.trycloudflare.com/vnc.html
+URL       : https://return-fundamentals-solve-proven.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 12:11:15
+Created   : 2026-07-20 16:22:29
 =======================================================
