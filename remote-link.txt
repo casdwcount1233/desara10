@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://configuration-phrase-corners-hung.trycloudflare.com/vnc.html
+URL       : https://cap-walls-commons-assembled.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 20:57:24
+Created   : 2026-07-23 01:52:46
 =======================================================
