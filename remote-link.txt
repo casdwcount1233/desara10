@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://holiday-potter-van-territory.trycloudflare.com/vnc.html
+URL       : https://netscape-arise-metal-hunt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-25 07:12:45
+Created   : 2026-07-25 11:04:13
 =======================================================
