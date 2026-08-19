@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://recipients-goals-terrorist-tramadol.trycloudflare.com/vnc.html
+URL       : https://goal-compiled-router-injection.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 15:23:54
+Created   : 2026-08-19 20:17:48
 =======================================================
