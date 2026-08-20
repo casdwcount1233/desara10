@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://goal-compiled-router-injection.trycloudflare.com/vnc.html
+URL       : https://advocacy-exports-retired-holders.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:17:48
+Created   : 2026-08-20 00:40:36
 =======================================================
