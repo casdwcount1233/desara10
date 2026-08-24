@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://documentary-eleven-bag-nick.trycloudflare.com/vnc.html
+URL       : https://invite-proposal-garmin-handmade.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 05:31:41
+Created   : 2026-08-24 10:29:43
 =======================================================
