@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://roland-basement-henry-arg.trycloudflare.com/vnc.html
+URL       : https://elvis-rental-construct-figures.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 20:19:10
+Created   : 2026-08-26 00:42:34
 =======================================================
